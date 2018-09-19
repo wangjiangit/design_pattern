@@ -24,10 +24,10 @@
 ------------
 
 <p align="center">
-    如果经济条件允许的学习，请捐赠我们
+    如果经济条件允许的学习者，对您受益匪浅，请捐赠我们,谢谢！
 </p> 
 <table>
-<tr><td>微信支付(weixin pay)</td><td>支付宝(alipay</td></tr>
+<tr><td>微信支付(weixin pay)</td><td>支付宝(alipay)</td></tr>
 <tr>
 <td><img src="https://github.com/wangjiangit/design_pattern/blob/master/pay_image/weixin_pay.png" width="150px" height="150px"/></td>
 <td><img src="https://github.com/wangjiangit/design_pattern/blob/master/pay_image/alipay.png" width="150px" height="150px" /></td>
