@@ -25,11 +25,14 @@
 
 <p align="center">
     如果经济条件允许的学习，请捐赠我们
-</p>
-
- |微信支付(weixin pay)|支付宝(alipay)|
-    |:---:|:---:|
-    |![微信支付](https://github.com/wangjiangit/design_pattern/blob/master/pay_image/weixin_pay.png)|![支付宝](https://github.com/wangjiangit/design_pattern/blob/master/pay_image/alipay.png)|
+</p> 
+<table>
+<tr><td>微信支付(weixin pay)</td><td>支付宝(alipay</td></tr>
+<tr>
+<td><img src="https://github.com/wangjiangit/design_pattern/blob/master/pay_image/weixin_pay.png" width="150px" height="150px"/></td>
+<td><img src="https://github.com/wangjiangit/design_pattern/blob/master/pay_image/alipay.png" width="150px" height="150px" /></td>
+</tr>
+</table>
     
 
 
