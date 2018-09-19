@@ -20,3 +20,16 @@
 *   <a href="#">策略模式</a>
 *   <a href="#">模板模式</a>
 *   <a href="#">访问者模式</a>
+
+------------
+
+<p align="center">
+    如果经济条件允许的学习，请捐赠我们
+</p>
+
+ |微信支付(weixin pay)|支付宝(alipay)|
+    |:---:|:---:|
+    |![微信支付](https://github.com/wangjiangit/design_pattern/blob/master/pay_image/weixin_pay.png)|![支付宝](https://github.com/wangjiangit/design_pattern/blob/master/pay_image/alipay.png)|
+    
+
+
