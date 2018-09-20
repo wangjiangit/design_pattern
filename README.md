@@ -3,11 +3,11 @@
 设计模式 采用PHP语言描述
 -------------------
 
-*  <a href="adapter.php">适配器模式</a>
+*   <a href="adapter.php">适配器模式</a>
 *   <a href="builder.php">建造者模式</a>
-*   <a href="data_access_object#">数据访问对象模式</a>
-*   <a href="#">装饰器模式</a>
-*   <a href="#">委托模式</a>
+*   <a href="data_access_object.php">数据访问对象模式</a>
+*   <a href="decorator.php">装饰器模式</a>
+*   <a href="entrust.php">委托模式</a>
 *   <a href="#">外观模式</a>
 *   <a href="#">工厂模式</a>
 *   <a href="#">解释器模式</a>
