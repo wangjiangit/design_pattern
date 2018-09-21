@@ -10,7 +10,7 @@
 *   <a href="entrust.php">委托模式</a>
 *   <a href="facade.php">外观模式</a>
 *   <a href="factory.php">工厂模式</a>
-*   <a href="#">解释器模式</a>
+*   <a href="interpreter.php">解释器模式</a>
 *   <a href="#">迭代器模式</a>
 *   <a href="#">中介者模式</a>
 *   <a href="#">观察者模式</a>
