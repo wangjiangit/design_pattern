@@ -8,8 +8,8 @@
 *   <a href="data_access_object.php">数据访问对象模式</a>
 *   <a href="decorator.php">装饰器模式</a>
 *   <a href="entrust.php">委托模式</a>
-*   <a href="#">外观模式</a>
-*   <a href="#">工厂模式</a>
+*   <a href="facade.php">外观模式</a>
+*   <a href="factory.php">工厂模式</a>
 *   <a href="#">解释器模式</a>
 *   <a href="#">迭代器模式</a>
 *   <a href="#">中介者模式</a>
