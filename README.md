@@ -12,7 +12,7 @@
 *   <a href="factory.php">工厂模式</a>
 *   <a href="interpreter.php">解释器模式</a>
 *   <a href="iterator.php">迭代器模式</a>
-*   <a href="#">中介者模式</a>
+*   <a href="mediator.php">中介者模式</a>
 *   <a href="#">观察者模式</a>
 *   <a href="#">原型模式</a>
 *   <a href="#">代理模式</a>
