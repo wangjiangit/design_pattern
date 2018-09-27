@@ -16,7 +16,7 @@
 *   <a href="observer.php">观察者模式</a>
 *   <a href="prototype.php">原型模式</a>
 *   <a href="proxy.php">代理模式</a>
-*   <a href="#">单元素模式（单例模式)</a>
+*   <a href="singleton.php">单元素模式（单例模式)</a>
 *   <a href="#">策略模式</a>
 *   <a href="#">模板模式</a>
 *   <a href="#">访问者模式</a>
