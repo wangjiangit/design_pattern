@@ -1,6 +1,5 @@
-# design_pattern  
-
-设计模式 采用PHP语言描述
+# design_pattern    
+设计模式采用PHP语言描述
 -------------------
 
 *   <a href="adapter.php">适配器模式</a>
@@ -18,8 +17,8 @@
 *   <a href="proxy.php">代理模式</a>
 *   <a href="singleton.php">单元素模式（单例模式)</a>
 *   <a href="strategy.php">策略模式</a>
-*   <a href="#">模板模式</a>
-*   <a href="#">访问者模式</a>
+*   <a href="template.php">模板模式</a>
+*   <a href="visitor.php">访问者模式</a>
 
 ------------
 
