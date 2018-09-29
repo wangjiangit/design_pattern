@@ -19,6 +19,7 @@
 *   <a href="strategy.php">策略模式</a>
 *   <a href="template.php">模板模式</a>
 *   <a href="visitor.php">访问者模式</a>
+*   <a href="dependenceInject">依赖注入概念</a>
 
 ------------
 
